@@ -1,9 +1,9 @@
 # A<sup>2</sup>R: A Hybrid Activation-Attention Framework for Enhancing Large Language Model Reliability
 
-This repository contains code related to the paper _A<sup>2</sup>R: A Hybrid Activation-Attention Framework for Enhancing Large Language Model Reliability_ and is structured as follows:
-![image](images/framework.pdf)
+This repository contains code related to the paper _A<sup>2</sup>R: A Hybrid Activation-Attention Framework for Enhancing Large Language Model Reliability_. The framework is shown as follows:
+![image](images/framework.jpg)
 
-## Process of Using A<sup>2</sup>R to Repair
+## Process of A<sup>2</sup>R
 
 1. For each repair instance, compute per-layer scores by combining the differences in hidden representations and the divergence in attention maps, then select the top‑k layers per instance.
 
