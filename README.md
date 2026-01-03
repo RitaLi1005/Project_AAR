@@ -23,13 +23,15 @@ This work is tested with Python Python 3.9. And We will release the full code af
 We thank the implementation of [EasyEdit](https://github.com/zjunlp/EasyEdit) and [Patil et al.](https://github.com/Vaidehi99/InfoDeletionAttacks), which inspires some code in this repo.
 
 ## Cite
+
+```bibtex
 @article{LI2026130922,
-title = {A2R: A hybridactivation-attention framework for enhancing large language model reliability},
-journal = {Expert Systems with Applications},
-volume = {306},
-pages = {130922},
-year = {2026},
-issn = {0957-4174},
-doi = {https://doi.org/10.1016/j.eswa.2025.130922},
-author = {Xuran Li and Jingyi Wang and Xiaohan Yuan and Wenhai Wang},
+  title   = {A2R: A hybrid activation-attention framework for enhancing large language model reliability},
+  journal = {Expert Systems with Applications},
+  volume  = {306},
+  pages   = {130922},
+  year    = {2026},
+  issn    = {0957-4174},
+  doi     = {10.1016/j.eswa.2025.130922},
+  author  = {Xuran Li and Jingyi Wang and Xiaohan Yuan and Wenhai Wang}
 }
